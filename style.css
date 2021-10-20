@@ -1015,3 +1015,10 @@
   padding: 0px;
   width: 175px;
 }
+#footer {
+       position: fixed;
+       text-align: center;
+       bottom: 0px;
+       width: 100%;
+			 font-size: 10px; !important
+   }
