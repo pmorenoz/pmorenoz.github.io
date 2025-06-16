@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo&#39;s website /// Home</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pmorenoz.github.io/</link>
     <description>Recent content on Pablo&#39;s website /// Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pmorenoz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bio &amp; Info</title>
-      <link>http://localhost:1313/info/</link>
+      <link>https://pmorenoz.github.io/info/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/</guid>
+      <guid>https://pmorenoz.github.io/info/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:1313/news/</link>
+      <link>https://pmorenoz.github.io/news/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/</guid>
+      <guid>https://pmorenoz.github.io/news/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
     </item>
     <item>
       <title>On basis functions and stochastic processes</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>https://pmorenoz.github.io/posts/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
+      <guid>https://pmorenoz.github.io/posts/</guid>
       <description>&lt;p&gt;This is an experiment writing down equations for this &lt;code&gt;little&lt;/code&gt; blog where I&amp;rsquo;m interested in submitting some basic ideas&#xA;$$\mathcal{GP}(\bm{x}) = (n+1)^{-1}&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;This article offers a sample of basic Markdown&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a &lt;strong&gt;Hugo&lt;/strong&gt; theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://pmorenoz.github.io/publications/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://pmorenoz.github.io/publications/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
     </item>
   </channel>
