@@ -50,7 +50,8 @@ function initDarkMode() {
 
   // Check localStorage and set initial state without animation
   const savedDarkMode = localStorage.getItem("darkMode");
-  setDarkMode(savedDarkMode === "enabled", false);
+  // setDarkMode(savedDarkMode === "enabled", false);  // Change made: use "enabled" for init dark mode
+  setDarkMode(savedDarkMode === "disabled", false);
 
   // Remove the no-animate class after a short delay
   setTimeout(() => {
